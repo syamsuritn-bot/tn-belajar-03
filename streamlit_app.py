@@ -8,7 +8,6 @@ dashboard_page = st.Page(
 )
 map_page = st.Page(
     "pages/1_Peta_IKPA_Indonesia.py",
-    title="Peta IKPA Indonesia",
 )
 
 navigation = st.navigation([dashboard_page, map_page])
