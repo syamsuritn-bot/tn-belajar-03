@@ -1,6 +1,15 @@
 import streamlit as st
 
-st.title("🎈 My new app")
-st.write(
-    "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
+
+dashboard_page = st.Page(
+    "pages/0_Dashboard.py",
+    title="Dashboard Analitik",
+    default=True,
 )
+map_page = st.Page(
+    "pages/1_Peta_IKPA_Indonesia.py",
+    title="Peta IKPA Indonesia",
+)
+
+navigation = st.navigation([dashboard_page, map_page])
+navigation.run()

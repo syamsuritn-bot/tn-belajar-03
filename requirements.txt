@@ -1,0 +1,6 @@
+streamlit
+altair
+orange3
+pandas
+numpy
+plotly>=5.24.0

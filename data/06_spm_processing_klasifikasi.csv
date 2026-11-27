@@ -1,0 +1,601 @@
+nomor_spm,tanggal_spm,jenis_spm,kode_satker,nama_kementerian,nilai_rupiah,kelengkapan_dokumen_persen,hari_sebelum_deadline,pengalaman_operator_tahun,periode_akhir_tahun,status_spm,alasan_pengembalian
+SPM00001,2024-01-05,SPM-LS Non Kontraktual,SAT0034,Kemenkeu,500000,73.4,47,4,1,Ditolak,Kuitansi tidak valid
+SPM00002,2024-01-05,SPM-TUP,SAT0109,Kemensos,500000,97.2,68,4,0,Diterima,Tidak ditolak
+SPM00003,2024-01-05,SPM-GUP,SAT0291,Kemen PUPR,500000,55.1,76,7,1,Diterima,Tidak ditolak
+SPM00004,2024-01-05,SPM-UP,SAT0162,Kementan,500000,92.7,45,9,0,Diterima,Tidak ditolak
+SPM00005,2024-01-05,SPM-LS Kontraktual,SAT0109,Kemendikbud,500000,76.4,2,5,0,Diterima,Tidak ditolak
+SPM00006,2024-01-05,SPM-GUP,SAT0256,Kemendikbud,500000,91.3,27,14,0,Diterima,Tidak ditolak
+SPM00007,2024-01-06,SPM-LS Belanja Pegawai,SAT0203,Kemenhub,500000,64.9,36,15,0,Diterima,Tidak ditolak
+SPM00008,2024-01-06,SPM-LS Kontraktual,SAT0235,Kemendikbud,500000,92.0,36,16,0,Diterima,Tidak ditolak
+SPM00009,2024-01-06,SPM-GUP,SAT0074,Kemenhub,500000,88.6,26,7,1,Diterima,Tidak ditolak
+SPM00010,2024-01-06,SPM-LS Belanja Pegawai,SAT0136,Kemendikbud,500000,61.5,43,7,0,Diterima,Tidak ditolak
+SPM00011,2024-01-06,SPM-LS Kontraktual,SAT0072,Kemen PUPR,500000,56.6,27,8,0,Diterima,Tidak ditolak
+SPM00012,2024-01-06,SPM-LS Belanja Pegawai,SAT0127,Kementan,500000,93.4,69,1,1,Diterima,Tidak ditolak
+SPM00013,2024-01-07,SPM-LS Belanja Pegawai,SAT0288,Kemensos,500000,98.2,20,14,1,Diterima,Tidak ditolak
+SPM00014,2024-01-07,SPM-LS Kontraktual,SAT0276,Kemenkes,500000,51.6,11,17,0,Diterima,Tidak ditolak
+SPM00015,2024-01-07,SPM-LS Kontraktual,SAT0135,Kemendagri,500000,86.6,74,2,0,Diterima,Tidak ditolak
+SPM00016,2024-01-07,SPM-LS Belanja Pegawai,SAT0300,Kemendikbud,500000,95.5,38,16,0,Diterima,Tidak ditolak
+SPM00017,2024-01-07,SPM-TUP,SAT0220,Kemensos,500000,92.9,6,3,0,Diterima,Tidak ditolak
+SPM00018,2024-01-07,SPM-LS Kontraktual,SAT0299,Kemensos,500000,98.2,72,3,1,Diterima,Tidak ditolak
+SPM00019,2024-01-08,SPM-GUP,SAT0205,Kemen PUPR,500000,88.0,23,13,1,Diterima,Tidak ditolak
+SPM00020,2024-01-08,SPM-LS Non Kontraktual,SAT0186,Kemenkeu,500000,72.1,47,8,1,Diterima,Tidak ditolak
+SPM00021,2024-01-08,SPM-UP,SAT0113,Kemenkeu,500000,65.6,46,8,1,Diterima,Tidak ditolak
+SPM00022,2024-01-08,SPM-LS Belanja Pegawai,SAT0071,Kemendikbud,500000,66.0,12,17,0,Diterima,Tidak ditolak
+SPM00023,2024-01-08,SPM-LS Belanja Pegawai,SAT0261,Kemendagri,500000,86.2,13,9,1,Diterima,Tidak ditolak
+SPM00024,2024-01-08,SPM-UP,SAT0253,Kemendikbud,500000,87.3,62,3,1,Diterima,Tidak ditolak
+SPM00025,2024-01-09,SPM-TUP,SAT0047,Kemendikbud,500000,60.0,82,11,0,Diterima,Tidak ditolak
+SPM00026,2024-01-09,SPM-UP,SAT0025,Kemenhub,500000,93.4,89,7,1,Diterima,Tidak ditolak
+SPM00027,2024-01-09,SPM-LS Kontraktual,SAT0057,Kementan,500000,85.7,60,1,0,Diterima,Tidak ditolak
+SPM00028,2024-01-09,SPM-UP,SAT0079,Kementan,500000,78.1,43,12,0,Diterima,Tidak ditolak
+SPM00029,2024-01-09,SPM-LS Belanja Pegawai,SAT0082,Kemendagri,500000,73.6,76,15,1,Ditolak,Dokumen tidak lengkap
+SPM00030,2024-01-09,SPM-UP,SAT0217,Kemenhub,500000,77.2,68,1,0,Diterima,Tidak ditolak
+SPM00031,2024-01-10,SPM-LS Non Kontraktual,SAT0033,Kemensos,500000,58.0,5,10,0,Diterima,Tidak ditolak
+SPM00032,2024-01-10,SPM-GUP,SAT0198,Kemenhub,500000,60.2,37,9,0,Diterima,Tidak ditolak
+SPM00033,2024-01-10,SPM-LS Kontraktual,SAT0196,Kemendikbud,500000,54.6,72,14,0,Diterima,Tidak ditolak
+SPM00034,2024-01-10,SPM-UP,SAT0240,Kemenkeu,500000,57.7,31,16,1,Ditolak,Dokumen tidak lengkap
+SPM00035,2024-01-10,SPM-LS Belanja Pegawai,SAT0271,Kemenag,500000,72.7,9,7,0,Ditolak,Kuitansi tidak valid
+SPM00036,2024-01-10,SPM-GUP,SAT0129,Kemendagri,500000,76.5,51,17,0,Diterima,Tidak ditolak
+SPM00037,2024-01-11,SPM-LS Kontraktual,SAT0284,Kemensos,500000,50.9,29,8,1,Diterima,Tidak ditolak
+SPM00038,2024-01-11,SPM-LS Belanja Pegawai,SAT0006,Kemen PUPR,500000,89.8,78,7,0,Diterima,Tidak ditolak
+SPM00039,2024-01-11,SPM-TUP,SAT0059,Kemenag,500000,64.7,40,13,0,Ditolak,Melebihi pagu
+SPM00040,2024-01-11,SPM-LS Non Kontraktual,SAT0275,Kemenag,500000,95.6,41,17,0,Diterima,Tidak ditolak
+SPM00041,2024-01-11,SPM-TUP,SAT0137,Kemenhub,500000,98.4,86,19,1,Diterima,Tidak ditolak
+SPM00042,2024-01-11,SPM-LS Non Kontraktual,SAT0175,Kemenkes,500000,59.3,11,19,0,Diterima,Tidak ditolak
+SPM00043,2024-01-12,SPM-UP,SAT0058,Kemenag,500000,73.1,23,11,0,Diterima,Tidak ditolak
+SPM00044,2024-01-12,SPM-LS Kontraktual,SAT0151,Kemendikbud,500000,50.1,1,18,0,Diterima,Tidak ditolak
+SPM00045,2024-01-12,SPM-UP,SAT0223,Kemenhan,500000,79.9,46,13,0,Diterima,Tidak ditolak
+SPM00046,2024-01-12,SPM-LS Non Kontraktual,SAT0081,Kemenkeu,500000,80.4,21,16,0,Diterima,Tidak ditolak
+SPM00047,2024-01-12,SPM-LS Non Kontraktual,SAT0233,Kemenkeu,500000,62.4,36,2,0,Diterima,Tidak ditolak
+SPM00048,2024-01-12,SPM-LS Non Kontraktual,SAT0002,Kemenhan,500000,77.9,54,6,0,Diterima,Tidak ditolak
+SPM00049,2024-01-13,SPM-GUP,SAT0135,Kementan,500000,61.3,87,16,1,Diterima,Tidak ditolak
+SPM00050,2024-01-13,SPM-LS Belanja Pegawai,SAT0257,Kemendikbud,500000,58.0,57,11,0,Diterima,Tidak ditolak
+SPM00051,2024-01-13,SPM-LS Kontraktual,SAT0092,Kemen PUPR,500000,82.6,1,8,1,Diterima,Tidak ditolak
+SPM00052,2024-01-13,SPM-UP,SAT0260,Kemenag,500000,66.3,63,14,1,Diterima,Tidak ditolak
+SPM00053,2024-01-13,SPM-UP,SAT0055,Kementan,500000,79.5,54,17,1,Diterima,Tidak ditolak
+SPM00054,2024-01-13,SPM-TUP,SAT0153,Kemendikbud,500000,71.7,55,12,0,Ditolak,Kode akun salah
+SPM00055,2024-01-14,SPM-LS Non Kontraktual,SAT0260,Kemenhub,500000,99.2,40,7,0,Diterima,Tidak ditolak
+SPM00056,2024-01-14,SPM-LS Non Kontraktual,SAT0102,Kemenkeu,500000,57.5,15,13,0,Diterima,Tidak ditolak
+SPM00057,2024-01-14,SPM-LS Non Kontraktual,SAT0079,Kementan,500000,73.2,21,7,0,Ditolak,Kode akun salah
+SPM00058,2024-01-14,SPM-UP,SAT0192,Kemendagri,500000,84.0,47,13,0,Diterima,Tidak ditolak
+SPM00059,2024-01-14,SPM-TUP,SAT0083,Kemenag,500000,69.8,73,6,1,Diterima,Tidak ditolak
+SPM00060,2024-01-14,SPM-LS Belanja Pegawai,SAT0277,Kemenag,500000,98.7,53,11,1,Diterima,Tidak ditolak
+SPM00061,2024-01-15,SPM-GUP,SAT0272,Kemen PUPR,500000,86.1,9,10,0,Diterima,Tidak ditolak
+SPM00062,2024-01-15,SPM-LS Kontraktual,SAT0001,Kemenkes,500000,82.8,74,10,0,Diterima,Tidak ditolak
+SPM00063,2024-01-15,SPM-LS Belanja Pegawai,SAT0166,Kemendagri,500000,87.9,52,12,1,Diterima,Tidak ditolak
+SPM00064,2024-01-15,SPM-UP,SAT0251,Kemenag,500000,97.6,57,17,0,Diterima,Tidak ditolak
+SPM00065,2024-01-15,SPM-GUP,SAT0010,Kemensos,500000,95.4,26,1,0,Diterima,Tidak ditolak
+SPM00066,2024-01-15,SPM-GUP,SAT0058,Kemendagri,500000,86.2,41,14,1,Diterima,Tidak ditolak
+SPM00067,2024-01-16,SPM-GUP,SAT0186,Kemenag,500000,87.5,35,19,0,Diterima,Tidak ditolak
+SPM00068,2024-01-16,SPM-LS Non Kontraktual,SAT0158,Kemenhan,500000,57.3,63,17,0,Diterima,Tidak ditolak
+SPM00069,2024-01-16,SPM-LS Kontraktual,SAT0123,Kemendagri,500000,55.1,25,14,0,Diterima,Tidak ditolak
+SPM00070,2024-01-16,SPM-UP,SAT0030,Kemendikbud,500000,78.5,75,18,1,Diterima,Tidak ditolak
+SPM00071,2024-01-16,SPM-UP,SAT0124,Kemendagri,500000,50.9,38,11,0,Diterima,Tidak ditolak
+SPM00072,2024-01-16,SPM-GUP,SAT0291,Kemen PUPR,500000,74.1,2,12,0,Ditolak,Kode akun salah
+SPM00073,2024-01-17,SPM-UP,SAT0041,Kemenhub,500000,60.5,7,10,0,Ditolak,Kuitansi tidak valid
+SPM00074,2024-01-17,SPM-LS Kontraktual,SAT0044,Kemenhub,500000,67.3,82,4,0,Diterima,Tidak ditolak
+SPM00075,2024-01-17,SPM-LS Kontraktual,SAT0249,Kemenhub,500000,88.8,34,0,0,Diterima,Tidak ditolak
+SPM00076,2024-01-17,SPM-TUP,SAT0036,Kemendikbud,500000,97.1,17,2,1,Diterima,Tidak ditolak
+SPM00077,2024-01-17,SPM-TUP,SAT0273,Kementan,500000,53.6,43,18,0,Ditolak,Dokumen tidak lengkap
+SPM00078,2024-01-17,SPM-LS Belanja Pegawai,SAT0065,Kemenhub,500000,76.7,59,6,1,Diterima,Tidak ditolak
+SPM00079,2024-01-18,SPM-LS Kontraktual,SAT0066,Kemenkeu,500000,94.1,51,11,0,Diterima,Tidak ditolak
+SPM00080,2024-01-18,SPM-LS Kontraktual,SAT0244,Kemendikbud,500000,54.1,54,14,0,Diterima,Tidak ditolak
+SPM00081,2024-01-18,SPM-LS Kontraktual,SAT0282,Kementan,500000,91.2,24,4,0,Diterima,Tidak ditolak
+SPM00082,2024-01-18,SPM-TUP,SAT0085,Kemenkeu,500000,67.9,25,14,0,Diterima,Tidak ditolak
+SPM00083,2024-01-18,SPM-GUP,SAT0136,Kemenkeu,500000,66.1,71,7,0,Diterima,Tidak ditolak
+SPM00084,2024-01-18,SPM-GUP,SAT0271,Kemenkeu,500000,98.9,52,9,0,Diterima,Tidak ditolak
+SPM00085,2024-01-19,SPM-UP,SAT0217,Kemensos,500000,60.0,70,15,0,Diterima,Tidak ditolak
+SPM00086,2024-01-19,SPM-GUP,SAT0109,Kemen PUPR,500000,84.7,88,7,0,Diterima,Tidak ditolak
+SPM00087,2024-01-19,SPM-LS Non Kontraktual,SAT0277,Kemen PUPR,500000,91.1,33,0,0,Diterima,Tidak ditolak
+SPM00088,2024-01-19,SPM-TUP,SAT0103,Kemendikbud,500000,52.1,49,11,1,Diterima,Tidak ditolak
+SPM00089,2024-01-19,SPM-LS Kontraktual,SAT0160,Kemenkeu,500000,83.5,29,4,1,Diterima,Tidak ditolak
+SPM00090,2024-01-19,SPM-GUP,SAT0205,Kemenhan,500000,97.6,63,2,0,Diterima,Tidak ditolak
+SPM00091,2024-01-20,SPM-TUP,SAT0192,Kemendagri,500000,56.2,22,0,0,Ditolak,Kuitansi tidak valid
+SPM00092,2024-01-20,SPM-GUP,SAT0225,Kementan,500000,94.8,26,3,0,Diterima,Tidak ditolak
+SPM00093,2024-01-20,SPM-LS Belanja Pegawai,SAT0265,Kemen PUPR,500000,79.7,28,7,0,Diterima,Tidak ditolak
+SPM00094,2024-01-20,SPM-LS Kontraktual,SAT0232,Kemenhub,500000,80.8,85,2,0,Diterima,Tidak ditolak
+SPM00095,2024-01-20,SPM-LS Belanja Pegawai,SAT0062,Kemendikbud,500000,80.6,49,9,1,Diterima,Tidak ditolak
+SPM00096,2024-01-20,SPM-LS Kontraktual,SAT0127,Kementan,500000,64.9,71,1,0,Diterima,Tidak ditolak
+SPM00097,2024-01-21,SPM-TUP,SAT0116,Kemendikbud,500000,96.8,81,10,0,Diterima,Tidak ditolak
+SPM00098,2024-01-21,SPM-UP,SAT0033,Kemenhan,500000,97.4,84,9,1,Diterima,Tidak ditolak
+SPM00099,2024-01-21,SPM-GUP,SAT0174,Kemensos,500000,81.3,49,13,0,Diterima,Tidak ditolak
+SPM00100,2024-01-21,SPM-GUP,SAT0011,Kemensos,500000,89.2,20,6,1,Ditolak,Kuitansi tidak valid
+SPM00101,2024-01-21,SPM-LS Non Kontraktual,SAT0284,Kemenkeu,500000,80.6,86,1,0,Diterima,Tidak ditolak
+SPM00102,2024-01-21,SPM-LS Belanja Pegawai,SAT0118,Kemensos,500000,74.2,63,8,0,Diterima,Tidak ditolak
+SPM00103,2024-01-22,SPM-GUP,SAT0113,Kemendikbud,500000,83.0,61,15,0,Diterima,Tidak ditolak
+SPM00104,2024-01-22,SPM-TUP,SAT0004,Kemenhub,500000,77.7,49,12,0,Diterima,Tidak ditolak
+SPM00105,2024-01-22,SPM-UP,SAT0037,Kemenkeu,500000,79.9,71,8,1,Diterima,Tidak ditolak
+SPM00106,2024-01-22,SPM-TUP,SAT0031,Kemenag,500000,89.2,1,19,0,Diterima,Tidak ditolak
+SPM00107,2024-01-22,SPM-LS Belanja Pegawai,SAT0118,Kementan,500000,74.0,13,3,1,Ditolak,SPTJM tidak ada
+SPM00108,2024-01-22,SPM-LS Non Kontraktual,SAT0035,Kemenhan,500000,52.0,87,9,0,Diterima,Tidak ditolak
+SPM00109,2024-01-23,SPM-GUP,SAT0017,Kemenkeu,500000,58.2,51,11,0,Ditolak,Dokumen tidak lengkap
+SPM00110,2024-01-23,SPM-TUP,SAT0170,Kemendikbud,500000,71.9,56,16,0,Diterima,Tidak ditolak
+SPM00111,2024-01-23,SPM-LS Kontraktual,SAT0037,Kementan,500000,86.2,83,13,0,Ditolak,SPTJM tidak ada
+SPM00112,2024-01-23,SPM-UP,SAT0264,Kemenhub,500000,79.7,62,13,1,Diterima,Tidak ditolak
+SPM00113,2024-01-23,SPM-TUP,SAT0122,Kemenkes,500000,82.5,32,1,0,Diterima,Tidak ditolak
+SPM00114,2024-01-23,SPM-UP,SAT0143,Kemenhan,500000,74.0,30,19,0,Diterima,Tidak ditolak
+SPM00115,2024-01-24,SPM-GUP,SAT0249,Kemendikbud,500000,80.8,29,10,0,Diterima,Tidak ditolak
+SPM00116,2024-01-24,SPM-LS Kontraktual,SAT0110,Kemenhan,500000,66.5,49,15,0,Diterima,Tidak ditolak
+SPM00117,2024-01-24,SPM-LS Non Kontraktual,SAT0277,Kemen PUPR,500000,73.5,45,18,0,Diterima,Tidak ditolak
+SPM00118,2024-01-24,SPM-LS Non Kontraktual,SAT0068,Kemenkes,500000,87.2,30,5,0,Diterima,Tidak ditolak
+SPM00119,2024-01-24,SPM-LS Kontraktual,SAT0293,Kementan,500000,93.6,16,18,1,Diterima,Tidak ditolak
+SPM00120,2024-01-24,SPM-UP,SAT0296,Kemensos,500000,71.7,40,4,0,Diterima,Tidak ditolak
+SPM00121,2024-01-25,SPM-GUP,SAT0243,Kemendikbud,500000,52.2,19,3,0,Ditolak,TTD tidak sesuai
+SPM00122,2024-01-25,SPM-TUP,SAT0125,Kemenhan,500000,58.1,18,14,0,Diterima,Tidak ditolak
+SPM00123,2024-01-25,SPM-LS Kontraktual,SAT0243,Kementan,500000,51.0,1,3,0,Ditolak,Dokumen tidak lengkap
+SPM00124,2024-01-25,SPM-LS Belanja Pegawai,SAT0209,Kemensos,500000,82.7,78,19,1,Ditolak,Dokumen tidak lengkap
+SPM00125,2024-01-25,SPM-UP,SAT0098,Kemenhub,500000,66.6,47,9,0,Diterima,Tidak ditolak
+SPM00126,2024-01-25,SPM-LS Non Kontraktual,SAT0049,Kemenhub,500000,77.1,66,2,0,Diterima,Tidak ditolak
+SPM00127,2024-01-26,SPM-LS Kontraktual,SAT0050,Kemenhan,500000,74.7,38,4,0,Diterima,Tidak ditolak
+SPM00128,2024-01-26,SPM-LS Non Kontraktual,SAT0221,Kemenkeu,500000,54.1,51,5,0,Ditolak,Dokumen tidak lengkap
+SPM00129,2024-01-26,SPM-UP,SAT0182,Kemen PUPR,500000,70.2,63,7,0,Diterima,Tidak ditolak
+SPM00130,2024-01-26,SPM-LS Non Kontraktual,SAT0217,Kemenkeu,500000,61.0,4,6,1,Diterima,Tidak ditolak
+SPM00131,2024-01-26,SPM-LS Kontraktual,SAT0211,Kemen PUPR,500000,70.9,1,9,1,Diterima,Tidak ditolak
+SPM00132,2024-01-26,SPM-UP,SAT0240,Kemendikbud,500000,60.2,8,5,1,Diterima,Tidak ditolak
+SPM00133,2024-01-27,SPM-LS Belanja Pegawai,SAT0028,Kemenag,500000,92.0,29,13,0,Diterima,Tidak ditolak
+SPM00134,2024-01-27,SPM-LS Kontraktual,SAT0051,Kemenhan,500000,58.7,55,3,0,Diterima,Tidak ditolak
+SPM00135,2024-01-27,SPM-TUP,SAT0032,Kemendagri,500000,98.0,3,12,0,Diterima,Tidak ditolak
+SPM00136,2024-01-27,SPM-GUP,SAT0207,Kemenhan,500000,70.8,32,19,0,Diterima,Tidak ditolak
+SPM00137,2024-01-27,SPM-LS Kontraktual,SAT0174,Kemenkes,500000,92.3,10,16,1,Diterima,Tidak ditolak
+SPM00138,2024-01-27,SPM-UP,SAT0056,Kemensos,500000,81.4,74,6,0,Diterima,Tidak ditolak
+SPM00139,2024-01-28,SPM-GUP,SAT0128,Kemenkes,500000,86.8,83,3,1,Diterima,Tidak ditolak
+SPM00140,2024-01-28,SPM-LS Kontraktual,SAT0099,Kemenhub,500000,88.4,34,13,1,Diterima,Tidak ditolak
+SPM00141,2024-01-28,SPM-LS Belanja Pegawai,SAT0098,Kemen PUPR,500000,75.2,87,2,0,Diterima,Tidak ditolak
+SPM00142,2024-01-28,SPM-LS Belanja Pegawai,SAT0275,Kemensos,500000,77.2,55,4,0,Ditolak,Kode akun salah
+SPM00143,2024-01-28,SPM-TUP,SAT0230,Kemenhub,500000,75.7,32,15,0,Diterima,Tidak ditolak
+SPM00144,2024-01-28,SPM-LS Non Kontraktual,SAT0072,Kemensos,500000,79.4,50,19,0,Diterima,Tidak ditolak
+SPM00145,2024-01-29,SPM-GUP,SAT0217,Kemenkeu,500000,51.5,7,3,1,Ditolak,Kode akun salah
+SPM00146,2024-01-29,SPM-UP,SAT0094,Kemenhub,500000,69.8,8,1,0,Ditolak,SPTJM tidak ada
+SPM00147,2024-01-29,SPM-UP,SAT0143,Kemenkeu,500000,80.3,65,17,0,Ditolak,SPTJM tidak ada
+SPM00148,2024-01-29,SPM-LS Non Kontraktual,SAT0237,Kemenkeu,500000,79.9,57,18,0,Diterima,Tidak ditolak
+SPM00149,2024-01-29,SPM-LS Belanja Pegawai,SAT0128,Kemensos,500000,89.6,67,18,1,Ditolak,Dokumen tidak lengkap
+SPM00150,2024-01-29,SPM-LS Belanja Pegawai,SAT0039,Kementan,500000,82.8,88,16,0,Diterima,Tidak ditolak
+SPM00151,2024-01-30,SPM-LS Kontraktual,SAT0227,Kemenkes,500000,99.6,87,13,1,Diterima,Tidak ditolak
+SPM00152,2024-01-30,SPM-TUP,SAT0282,Kemenhub,500000,64.2,59,18,0,Diterima,Tidak ditolak
+SPM00153,2024-01-30,SPM-GUP,SAT0051,Kemendagri,500000,68.0,72,12,1,Diterima,Tidak ditolak
+SPM00154,2024-01-30,SPM-TUP,SAT0026,Kementan,500000,69.2,54,11,1,Diterima,Tidak ditolak
+SPM00155,2024-01-30,SPM-TUP,SAT0277,Kemenkes,500000,73.3,67,5,0,Diterima,Tidak ditolak
+SPM00156,2024-01-30,SPM-LS Kontraktual,SAT0008,Kemenhub,500000,91.8,51,3,0,Diterima,Tidak ditolak
+SPM00157,2024-01-31,SPM-TUP,SAT0048,Kemen PUPR,500000,61.8,8,18,1,Diterima,Tidak ditolak
+SPM00158,2024-01-31,SPM-LS Non Kontraktual,SAT0122,Kemenkes,500000,88.8,34,15,0,Diterima,Tidak ditolak
+SPM00159,2024-01-31,SPM-LS Kontraktual,SAT0086,Kemendagri,500000,70.3,35,12,1,Diterima,Tidak ditolak
+SPM00160,2024-01-31,SPM-LS Non Kontraktual,SAT0209,Kemenhan,500000,80.1,88,3,0,Diterima,Tidak ditolak
+SPM00161,2024-01-31,SPM-LS Kontraktual,SAT0249,Kemendikbud,500000,81.6,78,16,1,Diterima,Tidak ditolak
+SPM00162,2024-01-31,SPM-TUP,SAT0247,Kemenkeu,500000,68.6,32,0,1,Ditolak,SPTJM tidak ada
+SPM00163,2024-02-01,SPM-LS Non Kontraktual,SAT0110,Kemendikbud,500000,75.6,46,17,1,Diterima,Tidak ditolak
+SPM00164,2024-02-01,SPM-LS Non Kontraktual,SAT0206,Kementan,500000,70.7,16,19,0,Diterima,Tidak ditolak
+SPM00165,2024-02-01,SPM-LS Non Kontraktual,SAT0031,Kemenhan,500000,53.5,68,16,0,Diterima,Tidak ditolak
+SPM00166,2024-02-01,SPM-LS Kontraktual,SAT0085,Kemenkeu,500000,71.9,37,14,0,Diterima,Tidak ditolak
+SPM00167,2024-02-01,SPM-UP,SAT0195,Kemenhub,500000,54.9,54,10,0,Diterima,Tidak ditolak
+SPM00168,2024-02-01,SPM-TUP,SAT0002,Kementan,500000,70.3,85,12,0,Diterima,Tidak ditolak
+SPM00169,2024-02-02,SPM-LS Non Kontraktual,SAT0200,Kemendagri,500000,79.6,14,0,0,Diterima,Tidak ditolak
+SPM00170,2024-02-02,SPM-GUP,SAT0136,Kemensos,500000,79.0,55,16,1,Diterima,Tidak ditolak
+SPM00171,2024-02-02,SPM-UP,SAT0233,Kemenhub,500000,83.1,48,5,0,Diterima,Tidak ditolak
+SPM00172,2024-02-02,SPM-GUP,SAT0147,Kemenkes,500000,54.8,82,3,0,Diterima,Tidak ditolak
+SPM00173,2024-02-02,SPM-TUP,SAT0217,Kemensos,500000,82.6,7,19,0,Diterima,Tidak ditolak
+SPM00174,2024-02-02,SPM-TUP,SAT0285,Kementan,500000,65.6,74,15,0,Ditolak,Kode akun salah
+SPM00175,2024-02-03,SPM-LS Non Kontraktual,SAT0250,Kemenkes,500000,70.0,7,14,0,Diterima,Tidak ditolak
+SPM00176,2024-02-03,SPM-LS Non Kontraktual,SAT0080,Kemendagri,500000,92.9,33,14,1,Ditolak,Kuitansi tidak valid
+SPM00177,2024-02-03,SPM-LS Kontraktual,SAT0098,Kemendikbud,500000,50.5,23,5,1,Ditolak,Kuitansi tidak valid
+SPM00178,2024-02-03,SPM-UP,SAT0152,Kemenkes,500000,79.4,85,14,0,Diterima,Tidak ditolak
+SPM00179,2024-02-03,SPM-UP,SAT0112,Kemendikbud,500000,79.9,19,13,0,Diterima,Tidak ditolak
+SPM00180,2024-02-03,SPM-LS Non Kontraktual,SAT0030,Kemenkeu,500000,69.8,19,10,1,Diterima,Tidak ditolak
+SPM00181,2024-02-04,SPM-TUP,SAT0297,Kemen PUPR,500000,61.9,36,6,0,Ditolak,Kuitansi tidak valid
+SPM00182,2024-02-04,SPM-LS Non Kontraktual,SAT0278,Kemenag,500000,61.7,29,8,0,Diterima,Tidak ditolak
+SPM00183,2024-02-04,SPM-TUP,SAT0032,Kemenhub,500000,94.2,60,15,0,Diterima,Tidak ditolak
+SPM00184,2024-02-04,SPM-TUP,SAT0161,Kemenag,500000,72.1,82,4,0,Diterima,Tidak ditolak
+SPM00185,2024-02-04,SPM-LS Non Kontraktual,SAT0030,Kemenkeu,500000,66.5,2,19,0,Diterima,Tidak ditolak
+SPM00186,2024-02-04,SPM-LS Belanja Pegawai,SAT0026,Kemenkes,500000,72.4,1,9,0,Diterima,Tidak ditolak
+SPM00187,2024-02-05,SPM-UP,SAT0300,Kemenkeu,500000,83.5,47,17,0,Diterima,Tidak ditolak
+SPM00188,2024-02-05,SPM-GUP,SAT0245,Kemenag,500000,57.3,69,2,1,Diterima,Tidak ditolak
+SPM00189,2024-02-05,SPM-TUP,SAT0258,Kemenag,500000,72.5,20,12,0,Diterima,Tidak ditolak
+SPM00190,2024-02-05,SPM-TUP,SAT0272,Kemenhub,500000,79.4,11,10,1,Diterima,Tidak ditolak
+SPM00191,2024-02-05,SPM-LS Belanja Pegawai,SAT0081,Kemensos,500000,97.4,2,16,1,Ditolak,SPTJM tidak ada
+SPM00192,2024-02-05,SPM-GUP,SAT0030,Kemenhan,500000,62.6,67,12,0,Diterima,Tidak ditolak
+SPM00193,2024-02-06,SPM-LS Kontraktual,SAT0261,Kemenkeu,500000,68.0,87,5,0,Diterima,Tidak ditolak
+SPM00194,2024-02-06,SPM-LS Belanja Pegawai,SAT0042,Kemen PUPR,500000,69.0,12,16,0,Diterima,Tidak ditolak
+SPM00195,2024-02-06,SPM-GUP,SAT0096,Kemenhan,500000,80.3,20,12,0,Diterima,Tidak ditolak
+SPM00196,2024-02-06,SPM-LS Belanja Pegawai,SAT0036,Kemenkeu,500000,67.8,5,18,1,Diterima,Tidak ditolak
+SPM00197,2024-02-06,SPM-TUP,SAT0035,Kemendagri,500000,76.7,37,18,0,Ditolak,TTD tidak sesuai
+SPM00198,2024-02-06,SPM-UP,SAT0121,Kementan,500000,89.1,38,9,1,Diterima,Tidak ditolak
+SPM00199,2024-02-07,SPM-LS Belanja Pegawai,SAT0207,Kementan,500000,85.3,9,2,0,Diterima,Tidak ditolak
+SPM00200,2024-02-07,SPM-LS Kontraktual,SAT0062,Kemenag,500000,72.3,53,13,0,Diterima,Tidak ditolak
+SPM00201,2024-02-07,SPM-LS Non Kontraktual,SAT0292,Kementan,500000,93.2,44,18,0,Diterima,Tidak ditolak
+SPM00202,2024-02-07,SPM-GUP,SAT0127,Kemendikbud,500000,77.9,86,4,0,Diterima,Tidak ditolak
+SPM00203,2024-02-07,SPM-LS Belanja Pegawai,SAT0297,Kemen PUPR,500000,77.0,24,4,0,Diterima,Tidak ditolak
+SPM00204,2024-02-07,SPM-LS Belanja Pegawai,SAT0021,Kementan,500000,51.7,81,19,0,Diterima,Tidak ditolak
+SPM00205,2024-02-08,SPM-LS Kontraktual,SAT0042,Kemenkes,500000,99.3,74,16,0,Diterima,Tidak ditolak
+SPM00206,2024-02-08,SPM-UP,SAT0215,Kemendikbud,500000,56.1,30,9,0,Diterima,Tidak ditolak
+SPM00207,2024-02-08,SPM-LS Belanja Pegawai,SAT0299,Kemenhan,500000,61.6,59,4,1,Ditolak,Kode akun salah
+SPM00208,2024-02-08,SPM-LS Belanja Pegawai,SAT0290,Kemendikbud,500000,52.6,87,3,0,Diterima,Tidak ditolak
+SPM00209,2024-02-08,SPM-UP,SAT0268,Kemenkeu,500000,82.0,81,5,1,Diterima,Tidak ditolak
+SPM00210,2024-02-08,SPM-LS Kontraktual,SAT0162,Kemenag,500000,61.2,81,3,1,Ditolak,TTD tidak sesuai
+SPM00211,2024-02-09,SPM-GUP,SAT0134,Kemenhub,500000,59.0,14,6,1,Diterima,Tidak ditolak
+SPM00212,2024-02-09,SPM-GUP,SAT0105,Kemenhub,500000,54.4,9,6,0,Ditolak,SPTJM tidak ada
+SPM00213,2024-02-09,SPM-LS Belanja Pegawai,SAT0161,Kemendagri,500000,55.2,40,17,1,Diterima,Tidak ditolak
+SPM00214,2024-02-09,SPM-UP,SAT0123,Kemen PUPR,500000,79.2,66,2,0,Diterima,Tidak ditolak
+SPM00215,2024-02-09,SPM-LS Belanja Pegawai,SAT0136,Kemenkeu,500000,84.4,25,0,0,Diterima,Tidak ditolak
+SPM00216,2024-02-09,SPM-LS Non Kontraktual,SAT0203,Kemenhub,500000,69.9,73,3,0,Diterima,Tidak ditolak
+SPM00217,2024-02-10,SPM-GUP,SAT0068,Kemenag,500000,74.0,22,5,1,Ditolak,Melebihi pagu
+SPM00218,2024-02-10,SPM-TUP,SAT0154,Kemenhan,500000,84.3,4,8,0,Diterima,Tidak ditolak
+SPM00219,2024-02-10,SPM-LS Non Kontraktual,SAT0235,Kemenhub,500000,50.9,26,13,1,Ditolak,Dokumen tidak lengkap
+SPM00220,2024-02-10,SPM-LS Belanja Pegawai,SAT0162,Kemenkes,500000,66.2,58,11,0,Diterima,Tidak ditolak
+SPM00221,2024-02-10,SPM-LS Kontraktual,SAT0038,Kemendikbud,500000,98.7,29,19,1,Diterima,Tidak ditolak
+SPM00222,2024-02-10,SPM-GUP,SAT0005,Kemenhub,500000,79.0,87,3,1,Ditolak,Kode akun salah
+SPM00223,2024-02-11,SPM-TUP,SAT0235,Kemenkeu,500000,62.7,37,11,0,Diterima,Tidak ditolak
+SPM00224,2024-02-11,SPM-LS Non Kontraktual,SAT0289,Kementan,500000,76.1,75,9,1,Diterima,Tidak ditolak
+SPM00225,2024-02-11,SPM-GUP,SAT0052,Kementan,500000,67.1,70,6,0,Diterima,Tidak ditolak
+SPM00226,2024-02-11,SPM-UP,SAT0038,Kemenhan,500000,76.6,18,2,0,Diterima,Tidak ditolak
+SPM00227,2024-02-11,SPM-LS Kontraktual,SAT0276,Kementan,500000,56.3,85,13,0,Diterima,Tidak ditolak
+SPM00228,2024-02-11,SPM-LS Non Kontraktual,SAT0110,Kemenhan,500000,56.6,42,9,0,Diterima,Tidak ditolak
+SPM00229,2024-02-12,SPM-UP,SAT0260,Kemenkeu,500000,57.2,41,15,0,Ditolak,Kuitansi tidak valid
+SPM00230,2024-02-12,SPM-LS Belanja Pegawai,SAT0136,Kemen PUPR,500000,97.0,38,15,0,Diterima,Tidak ditolak
+SPM00231,2024-02-12,SPM-UP,SAT0068,Kementan,500000,86.6,34,9,0,Diterima,Tidak ditolak
+SPM00232,2024-02-12,SPM-LS Non Kontraktual,SAT0179,Kemendagri,500000,58.1,17,12,1,Diterima,Tidak ditolak
+SPM00233,2024-02-12,SPM-LS Non Kontraktual,SAT0036,Kemenag,500000,59.4,37,5,1,Diterima,Tidak ditolak
+SPM00234,2024-02-12,SPM-LS Belanja Pegawai,SAT0126,Kemendikbud,500000,86.5,25,11,1,Diterima,Tidak ditolak
+SPM00235,2024-02-13,SPM-UP,SAT0190,Kementan,500000,57.8,76,8,1,Ditolak,TTD tidak sesuai
+SPM00236,2024-02-13,SPM-UP,SAT0146,Kemenhan,500000,61.7,87,12,1,Diterima,Tidak ditolak
+SPM00237,2024-02-13,SPM-LS Belanja Pegawai,SAT0081,Kemenkeu,500000,98.2,86,3,0,Diterima,Tidak ditolak
+SPM00238,2024-02-13,SPM-UP,SAT0225,Kementan,500000,62.8,85,10,0,Ditolak,Melebihi pagu
+SPM00239,2024-02-13,SPM-GUP,SAT0279,Kemenhub,500000,83.1,27,19,1,Diterima,Tidak ditolak
+SPM00240,2024-02-13,SPM-LS Belanja Pegawai,SAT0155,Kementan,500000,98.9,57,17,0,Diterima,Tidak ditolak
+SPM00241,2024-02-14,SPM-LS Kontraktual,SAT0271,Kemenhan,500000,68.7,31,10,0,Diterima,Tidak ditolak
+SPM00242,2024-02-14,SPM-LS Non Kontraktual,SAT0005,Kemenkes,500000,50.9,6,3,0,Ditolak,Melebihi pagu
+SPM00243,2024-02-14,SPM-LS Kontraktual,SAT0284,Kemenkes,500000,62.2,40,17,0,Diterima,Tidak ditolak
+SPM00244,2024-02-14,SPM-GUP,SAT0154,Kementan,500000,91.5,12,0,0,Ditolak,Kode akun salah
+SPM00245,2024-02-14,SPM-GUP,SAT0054,Kemendikbud,500000,93.2,53,6,0,Diterima,Tidak ditolak
+SPM00246,2024-02-14,SPM-TUP,SAT0069,Kemenkeu,500000,88.4,71,5,0,Diterima,Tidak ditolak
+SPM00247,2024-02-15,SPM-TUP,SAT0136,Kemendagri,500000,55.7,10,14,0,Diterima,Tidak ditolak
+SPM00248,2024-02-15,SPM-TUP,SAT0060,Kemendagri,500000,89.8,45,17,0,Diterima,Tidak ditolak
+SPM00249,2024-02-15,SPM-LS Belanja Pegawai,SAT0055,Kementan,500000,95.9,17,10,0,Diterima,Tidak ditolak
+SPM00250,2024-02-15,SPM-UP,SAT0284,Kementan,500000,80.0,26,19,1,Diterima,Tidak ditolak
+SPM00251,2024-02-15,SPM-GUP,SAT0080,Kemenkes,500000,97.0,85,14,0,Diterima,Tidak ditolak
+SPM00252,2024-02-15,SPM-LS Kontraktual,SAT0140,Kemenhan,500000,91.3,62,15,0,Diterima,Tidak ditolak
+SPM00253,2024-02-16,SPM-LS Kontraktual,SAT0145,Kemendikbud,500000,83.3,46,6,1,Ditolak,Kode akun salah
+SPM00254,2024-02-16,SPM-LS Kontraktual,SAT0108,Kementan,500000,78.9,64,9,0,Diterima,Tidak ditolak
+SPM00255,2024-02-16,SPM-LS Kontraktual,SAT0176,Kemendagri,500000,67.4,2,11,0,Diterima,Tidak ditolak
+SPM00256,2024-02-16,SPM-TUP,SAT0105,Kemenkeu,500000,58.0,54,13,0,Diterima,Tidak ditolak
+SPM00257,2024-02-16,SPM-LS Kontraktual,SAT0136,Kemen PUPR,500000,80.2,65,4,1,Diterima,Tidak ditolak
+SPM00258,2024-02-16,SPM-UP,SAT0259,Kemenhub,500000,65.9,51,17,0,Ditolak,Melebihi pagu
+SPM00259,2024-02-17,SPM-TUP,SAT0251,Kementan,500000,93.3,53,4,0,Diterima,Tidak ditolak
+SPM00260,2024-02-17,SPM-LS Kontraktual,SAT0129,Kemenhan,500000,99.7,36,2,1,Diterima,Tidak ditolak
+SPM00261,2024-02-17,SPM-LS Belanja Pegawai,SAT0027,Kementan,500000,87.6,26,4,0,Diterima,Tidak ditolak
+SPM00262,2024-02-17,SPM-LS Non Kontraktual,SAT0048,Kemenhan,500000,54.5,29,16,0,Diterima,Tidak ditolak
+SPM00263,2024-02-17,SPM-LS Non Kontraktual,SAT0217,Kemendikbud,500000,64.4,21,18,0,Diterima,Tidak ditolak
+SPM00264,2024-02-17,SPM-LS Non Kontraktual,SAT0142,Kemen PUPR,500000,55.5,11,18,0,Ditolak,Dokumen tidak lengkap
+SPM00265,2024-02-18,SPM-TUP,SAT0023,Kemenag,500000,82.5,40,11,0,Diterima,Tidak ditolak
+SPM00266,2024-02-18,SPM-LS Kontraktual,SAT0002,Kemenkeu,500000,88.3,11,8,0,Diterima,Tidak ditolak
+SPM00267,2024-02-18,SPM-GUP,SAT0171,Kemenkeu,500000,96.3,36,0,1,Diterima,Tidak ditolak
+SPM00268,2024-02-18,SPM-GUP,SAT0067,Kemenhan,500000,71.9,59,17,0,Diterima,Tidak ditolak
+SPM00269,2024-02-18,SPM-GUP,SAT0135,Kemenkes,500000,95.1,39,3,0,Diterima,Tidak ditolak
+SPM00270,2024-02-18,SPM-TUP,SAT0083,Kemenhan,500000,93.9,54,9,0,Diterima,Tidak ditolak
+SPM00271,2024-02-19,SPM-UP,SAT0227,Kemenkes,500000,65.9,55,6,0,Diterima,Tidak ditolak
+SPM00272,2024-02-19,SPM-LS Belanja Pegawai,SAT0283,Kemensos,500000,93.4,24,0,0,Diterima,Tidak ditolak
+SPM00273,2024-02-19,SPM-LS Belanja Pegawai,SAT0219,Kemendagri,500000,68.8,22,16,1,Diterima,Tidak ditolak
+SPM00274,2024-02-19,SPM-LS Non Kontraktual,SAT0288,Kemenkeu,500000,64.8,69,1,0,Diterima,Tidak ditolak
+SPM00275,2024-02-19,SPM-LS Non Kontraktual,SAT0005,Kemendikbud,500000,82.5,56,10,1,Ditolak,Dokumen tidak lengkap
+SPM00276,2024-02-19,SPM-GUP,SAT0058,Kemenhan,500000,66.4,33,8,1,Diterima,Tidak ditolak
+SPM00277,2024-02-20,SPM-GUP,SAT0039,Kemendikbud,500000,81.5,36,6,0,Diterima,Tidak ditolak
+SPM00278,2024-02-20,SPM-LS Non Kontraktual,SAT0077,Kemen PUPR,500000,80.5,20,16,1,Diterima,Tidak ditolak
+SPM00279,2024-02-20,SPM-LS Kontraktual,SAT0280,Kemendikbud,500000,78.2,83,16,0,Diterima,Tidak ditolak
+SPM00280,2024-02-20,SPM-UP,SAT0019,Kementan,500000,69.0,81,1,0,Diterima,Tidak ditolak
+SPM00281,2024-02-20,SPM-UP,SAT0190,Kemendagri,500000,77.4,62,5,0,Diterima,Tidak ditolak
+SPM00282,2024-02-20,SPM-UP,SAT0299,Kementan,500000,79.8,73,13,0,Diterima,Tidak ditolak
+SPM00283,2024-02-21,SPM-UP,SAT0283,Kemenhub,500000,77.3,26,5,0,Ditolak,TTD tidak sesuai
+SPM00284,2024-02-21,SPM-LS Non Kontraktual,SAT0076,Kemenhan,500000,72.2,66,1,0,Ditolak,Dokumen tidak lengkap
+SPM00285,2024-02-21,SPM-LS Belanja Pegawai,SAT0221,Kemenkeu,500000,50.7,73,0,0,Diterima,Tidak ditolak
+SPM00286,2024-02-21,SPM-LS Non Kontraktual,SAT0066,Kemenhan,500000,79.4,73,9,0,Ditolak,Melebihi pagu
+SPM00287,2024-02-21,SPM-UP,SAT0022,Kemendagri,500000,58.4,40,4,0,Diterima,Tidak ditolak
+SPM00288,2024-02-21,SPM-LS Non Kontraktual,SAT0158,Kemenag,500000,82.1,17,1,1,Diterima,Tidak ditolak
+SPM00289,2024-02-22,SPM-UP,SAT0187,Kemenag,500000,88.0,1,15,1,Diterima,Tidak ditolak
+SPM00290,2024-02-22,SPM-TUP,SAT0021,Kemenhub,500000,75.0,89,1,0,Diterima,Tidak ditolak
+SPM00291,2024-02-22,SPM-GUP,SAT0184,Kemendagri,500000,77.1,61,9,0,Diterima,Tidak ditolak
+SPM00292,2024-02-22,SPM-LS Belanja Pegawai,SAT0108,Kemensos,500000,97.6,43,1,1,Ditolak,Melebihi pagu
+SPM00293,2024-02-22,SPM-TUP,SAT0128,Kemensos,500000,92.4,42,15,1,Diterima,Tidak ditolak
+SPM00294,2024-02-22,SPM-LS Kontraktual,SAT0053,Kemensos,500000,95.7,25,15,1,Ditolak,SPTJM tidak ada
+SPM00295,2024-02-23,SPM-LS Non Kontraktual,SAT0182,Kemenkeu,500000,90.7,39,18,0,Diterima,Tidak ditolak
+SPM00296,2024-02-23,SPM-LS Kontraktual,SAT0287,Kemenkeu,500000,55.4,35,6,0,Ditolak,Melebihi pagu
+SPM00297,2024-02-23,SPM-LS Non Kontraktual,SAT0209,Kemensos,500000,57.4,3,11,0,Ditolak,Dokumen tidak lengkap
+SPM00298,2024-02-23,SPM-GUP,SAT0080,Kemenag,500000,76.3,44,14,0,Ditolak,Kuitansi tidak valid
+SPM00299,2024-02-23,SPM-TUP,SAT0122,Kemendagri,500000,62.3,51,7,1,Diterima,Tidak ditolak
+SPM00300,2024-02-23,SPM-GUP,SAT0084,Kemendikbud,500000,73.8,12,5,1,Diterima,Tidak ditolak
+SPM00301,2024-02-24,SPM-UP,SAT0091,Kemendagri,500000,69.7,19,9,0,Diterima,Tidak ditolak
+SPM00302,2024-02-24,SPM-GUP,SAT0212,Kemensos,500000,77.5,44,2,1,Diterima,Tidak ditolak
+SPM00303,2024-02-24,SPM-GUP,SAT0013,Kemendagri,500000,87.3,59,18,0,Diterima,Tidak ditolak
+SPM00304,2024-02-24,SPM-UP,SAT0092,Kemen PUPR,500000,85.8,49,16,0,Diterima,Tidak ditolak
+SPM00305,2024-02-24,SPM-LS Non Kontraktual,SAT0171,Kemenkeu,500000,76.1,61,6,0,Diterima,Tidak ditolak
+SPM00306,2024-02-24,SPM-UP,SAT0211,Kemenkeu,500000,91.1,17,19,1,Diterima,Tidak ditolak
+SPM00307,2024-02-25,SPM-TUP,SAT0128,Kemenag,500000,71.5,74,3,0,Diterima,Tidak ditolak
+SPM00308,2024-02-25,SPM-GUP,SAT0137,Kemendikbud,500000,94.8,57,13,1,Ditolak,TTD tidak sesuai
+SPM00309,2024-02-25,SPM-UP,SAT0082,Kemensos,500000,53.6,55,19,1,Ditolak,SPTJM tidak ada
+SPM00310,2024-02-25,SPM-GUP,SAT0056,Kemenhan,500000,97.7,47,14,0,Diterima,Tidak ditolak
+SPM00311,2024-02-25,SPM-TUP,SAT0196,Kemenag,500000,82.7,12,7,0,Diterima,Tidak ditolak
+SPM00312,2024-02-25,SPM-LS Kontraktual,SAT0020,Kemenag,500000,69.0,62,14,1,Diterima,Tidak ditolak
+SPM00313,2024-02-26,SPM-TUP,SAT0241,Kemendikbud,500000,59.9,80,19,0,Diterima,Tidak ditolak
+SPM00314,2024-02-26,SPM-LS Belanja Pegawai,SAT0114,Kementan,500000,74.0,88,13,1,Diterima,Tidak ditolak
+SPM00315,2024-02-26,SPM-LS Belanja Pegawai,SAT0103,Kemensos,500000,59.7,83,8,1,Ditolak,Dokumen tidak lengkap
+SPM00316,2024-02-26,SPM-LS Belanja Pegawai,SAT0236,Kemenhan,500000,58.3,8,7,0,Ditolak,TTD tidak sesuai
+SPM00317,2024-02-26,SPM-GUP,SAT0180,Kemenkeu,500000,80.9,21,16,0,Diterima,Tidak ditolak
+SPM00318,2024-02-26,SPM-LS Non Kontraktual,SAT0157,Kemendikbud,500000,76.2,81,1,1,Diterima,Tidak ditolak
+SPM00319,2024-02-27,SPM-LS Non Kontraktual,SAT0117,Kemenhan,500000,83.5,87,2,0,Diterima,Tidak ditolak
+SPM00320,2024-02-27,SPM-LS Non Kontraktual,SAT0115,Kemen PUPR,500000,96.5,80,7,0,Diterima,Tidak ditolak
+SPM00321,2024-02-27,SPM-GUP,SAT0013,Kemenag,500000,76.6,70,11,0,Diterima,Tidak ditolak
+SPM00322,2024-02-27,SPM-TUP,SAT0099,Kemendikbud,500000,79.0,72,0,0,Diterima,Tidak ditolak
+SPM00323,2024-02-27,SPM-LS Non Kontraktual,SAT0205,Kemenkeu,500000,54.5,25,9,1,Ditolak,Dokumen tidak lengkap
+SPM00324,2024-02-27,SPM-LS Kontraktual,SAT0169,Kemendagri,500000,85.9,82,19,1,Ditolak,SPTJM tidak ada
+SPM00325,2024-02-28,SPM-LS Belanja Pegawai,SAT0143,Kemenkeu,500000,70.0,89,2,0,Ditolak,Melebihi pagu
+SPM00326,2024-02-28,SPM-TUP,SAT0036,Kemen PUPR,500000,98.8,12,5,0,Diterima,Tidak ditolak
+SPM00327,2024-02-28,SPM-LS Belanja Pegawai,SAT0143,Kemendikbud,500000,91.2,15,6,0,Diterima,Tidak ditolak
+SPM00328,2024-02-28,SPM-LS Non Kontraktual,SAT0180,Kemen PUPR,500000,76.1,59,19,1,Diterima,Tidak ditolak
+SPM00329,2024-02-28,SPM-TUP,SAT0261,Kemensos,500000,56.2,26,17,0,Diterima,Tidak ditolak
+SPM00330,2024-02-28,SPM-UP,SAT0205,Kemensos,500000,93.0,26,10,0,Diterima,Tidak ditolak
+SPM00331,2024-02-29,SPM-LS Kontraktual,SAT0275,Kemendagri,500000,90.0,47,18,0,Diterima,Tidak ditolak
+SPM00332,2024-02-29,SPM-LS Non Kontraktual,SAT0170,Kemenag,500000,59.2,32,4,0,Diterima,Tidak ditolak
+SPM00333,2024-02-29,SPM-LS Non Kontraktual,SAT0015,Kementan,500000,64.8,10,18,1,Diterima,Tidak ditolak
+SPM00334,2024-02-29,SPM-LS Kontraktual,SAT0060,Kemenkes,500000,89.7,16,10,0,Diterima,Tidak ditolak
+SPM00335,2024-02-29,SPM-LS Kontraktual,SAT0134,Kemenhan,500000,59.3,71,11,0,Diterima,Tidak ditolak
+SPM00336,2024-02-29,SPM-UP,SAT0092,Kemen PUPR,500000,95.9,17,9,0,Diterima,Tidak ditolak
+SPM00337,2024-03-01,SPM-LS Non Kontraktual,SAT0298,Kemenhan,500000,71.2,23,7,1,Diterima,Tidak ditolak
+SPM00338,2024-03-01,SPM-GUP,SAT0136,Kemendagri,500000,54.4,26,8,0,Ditolak,Kuitansi tidak valid
+SPM00339,2024-03-01,SPM-LS Non Kontraktual,SAT0020,Kemenhan,500000,90.8,85,3,0,Diterima,Tidak ditolak
+SPM00340,2024-03-01,SPM-LS Belanja Pegawai,SAT0056,Kemenhan,500000,68.7,86,4,0,Diterima,Tidak ditolak
+SPM00341,2024-03-01,SPM-TUP,SAT0223,Kemenkeu,500000,76.3,7,7,1,Diterima,Tidak ditolak
+SPM00342,2024-03-01,SPM-TUP,SAT0177,Kemendikbud,500000,55.6,14,8,0,Diterima,Tidak ditolak
+SPM00343,2024-03-02,SPM-LS Belanja Pegawai,SAT0161,Kemenag,500000,50.1,79,14,0,Diterima,Tidak ditolak
+SPM00344,2024-03-02,SPM-TUP,SAT0224,Kemenkes,500000,81.9,7,14,0,Diterima,Tidak ditolak
+SPM00345,2024-03-02,SPM-LS Kontraktual,SAT0262,Kemendikbud,500000,75.8,9,15,1,Ditolak,SPTJM tidak ada
+SPM00346,2024-03-02,SPM-TUP,SAT0060,Kemenkeu,500000,79.7,48,13,0,Ditolak,Melebihi pagu
+SPM00347,2024-03-02,SPM-TUP,SAT0198,Kemenhan,500000,89.7,72,7,1,Diterima,Tidak ditolak
+SPM00348,2024-03-02,SPM-LS Belanja Pegawai,SAT0296,Kemenkes,500000,82.3,59,17,0,Diterima,Tidak ditolak
+SPM00349,2024-03-03,SPM-UP,SAT0098,Kemenkeu,500000,58.7,87,9,0,Diterima,Tidak ditolak
+SPM00350,2024-03-03,SPM-TUP,SAT0131,Kemenkeu,500000,68.0,82,19,0,Diterima,Tidak ditolak
+SPM00351,2024-03-03,SPM-GUP,SAT0023,Kemenkeu,500000,95.3,39,5,1,Diterima,Tidak ditolak
+SPM00352,2024-03-03,SPM-TUP,SAT0224,Kemensos,500000,88.5,18,11,0,Diterima,Tidak ditolak
+SPM00353,2024-03-03,SPM-UP,SAT0001,Kemenkes,500000,77.8,59,1,1,Diterima,Tidak ditolak
+SPM00354,2024-03-03,SPM-LS Belanja Pegawai,SAT0267,Kemenkeu,500000,62.8,17,6,1,Ditolak,SPTJM tidak ada
+SPM00355,2024-03-04,SPM-UP,SAT0276,Kementan,500000,65.1,14,15,0,Diterima,Tidak ditolak
+SPM00356,2024-03-04,SPM-LS Belanja Pegawai,SAT0101,Kemenhan,500000,86.6,31,2,1,Ditolak,Kode akun salah
+SPM00357,2024-03-04,SPM-LS Kontraktual,SAT0187,Kemenkes,500000,92.6,24,12,1,Diterima,Tidak ditolak
+SPM00358,2024-03-04,SPM-LS Belanja Pegawai,SAT0221,Kemensos,500000,83.6,60,2,0,Diterima,Tidak ditolak
+SPM00359,2024-03-04,SPM-LS Kontraktual,SAT0036,Kemen PUPR,500000,90.5,45,17,0,Diterima,Tidak ditolak
+SPM00360,2024-03-04,SPM-LS Kontraktual,SAT0170,Kemen PUPR,500000,88.3,3,10,1,Diterima,Tidak ditolak
+SPM00361,2024-03-05,SPM-LS Belanja Pegawai,SAT0161,Kemenag,500000,57.5,37,7,0,Ditolak,Kuitansi tidak valid
+SPM00362,2024-03-05,SPM-GUP,SAT0064,Kemenhub,500000,71.2,43,5,1,Diterima,Tidak ditolak
+SPM00363,2024-03-05,SPM-LS Non Kontraktual,SAT0154,Kementan,500000,57.6,40,0,1,Ditolak,Dokumen tidak lengkap
+SPM00364,2024-03-05,SPM-LS Belanja Pegawai,SAT0260,Kemen PUPR,500000,61.8,55,0,0,Ditolak,Dokumen tidak lengkap
+SPM00365,2024-03-05,SPM-TUP,SAT0159,Kemensos,500000,93.5,87,7,0,Diterima,Tidak ditolak
+SPM00366,2024-03-05,SPM-GUP,SAT0210,Kemenhub,500000,73.6,39,4,0,Diterima,Tidak ditolak
+SPM00367,2024-03-06,SPM-GUP,SAT0168,Kemenkeu,500000,76.8,15,15,0,Ditolak,Kuitansi tidak valid
+SPM00368,2024-03-06,SPM-TUP,SAT0207,Kemenkeu,500000,58.9,4,10,0,Ditolak,Kode akun salah
+SPM00369,2024-03-06,SPM-LS Non Kontraktual,SAT0152,Kemendagri,500000,65.6,86,4,0,Diterima,Tidak ditolak
+SPM00370,2024-03-06,SPM-GUP,SAT0284,Kemenhan,500000,61.5,25,3,0,Ditolak,Melebihi pagu
+SPM00371,2024-03-06,SPM-LS Kontraktual,SAT0066,Kemenhub,500000,60.3,13,5,1,Ditolak,Dokumen tidak lengkap
+SPM00372,2024-03-06,SPM-LS Non Kontraktual,SAT0099,Kemenhan,500000,81.9,82,13,1,Diterima,Tidak ditolak
+SPM00373,2024-03-07,SPM-TUP,SAT0216,Kemensos,500000,62.8,33,18,0,Ditolak,Kode akun salah
+SPM00374,2024-03-07,SPM-LS Non Kontraktual,SAT0195,Kementan,500000,81.6,16,8,0,Diterima,Tidak ditolak
+SPM00375,2024-03-07,SPM-LS Belanja Pegawai,SAT0090,Kemenhub,500000,52.9,42,11,0,Diterima,Tidak ditolak
+SPM00376,2024-03-07,SPM-LS Non Kontraktual,SAT0292,Kemen PUPR,500000,57.1,66,10,0,Diterima,Tidak ditolak
+SPM00377,2024-03-07,SPM-LS Kontraktual,SAT0155,Kementan,500000,63.7,55,13,1,Diterima,Tidak ditolak
+SPM00378,2024-03-07,SPM-LS Belanja Pegawai,SAT0208,Kemendagri,500000,79.9,42,15,1,Diterima,Tidak ditolak
+SPM00379,2024-03-08,SPM-UP,SAT0281,Kemenhan,500000,83.8,34,0,1,Diterima,Tidak ditolak
+SPM00380,2024-03-08,SPM-TUP,SAT0001,Kemenhan,500000,72.1,30,12,1,Diterima,Tidak ditolak
+SPM00381,2024-03-08,SPM-TUP,SAT0156,Kementan,500000,72.3,13,12,0,Diterima,Tidak ditolak
+SPM00382,2024-03-08,SPM-LS Non Kontraktual,SAT0147,Kemenkeu,500000,86.2,13,1,1,Diterima,Tidak ditolak
+SPM00383,2024-03-08,SPM-GUP,SAT0108,Kemenhan,500000,50.8,18,3,0,Diterima,Tidak ditolak
+SPM00384,2024-03-08,SPM-LS Belanja Pegawai,SAT0221,Kemendagri,500000,67.1,32,5,1,Diterima,Tidak ditolak
+SPM00385,2024-03-09,SPM-UP,SAT0297,Kemen PUPR,500000,90.9,39,4,0,Diterima,Tidak ditolak
+SPM00386,2024-03-09,SPM-LS Belanja Pegawai,SAT0165,Kemenkes,500000,80.2,46,2,1,Diterima,Tidak ditolak
+SPM00387,2024-03-09,SPM-TUP,SAT0239,Kemen PUPR,500000,66.9,29,0,1,Ditolak,Dokumen tidak lengkap
+SPM00388,2024-03-09,SPM-LS Belanja Pegawai,SAT0227,Kemen PUPR,500000,95.3,62,3,0,Diterima,Tidak ditolak
+SPM00389,2024-03-09,SPM-UP,SAT0227,Kemenhan,500000,88.6,62,19,0,Diterima,Tidak ditolak
+SPM00390,2024-03-09,SPM-GUP,SAT0110,Kemendikbud,500000,63.2,57,1,1,Ditolak,TTD tidak sesuai
+SPM00391,2024-03-10,SPM-LS Non Kontraktual,SAT0262,Kemenkeu,500000,82.3,16,4,0,Diterima,Tidak ditolak
+SPM00392,2024-03-10,SPM-LS Kontraktual,SAT0243,Kemenhan,500000,79.8,56,2,0,Diterima,Tidak ditolak
+SPM00393,2024-03-10,SPM-LS Belanja Pegawai,SAT0087,Kemenkeu,500000,70.1,10,8,0,Diterima,Tidak ditolak
+SPM00394,2024-03-10,SPM-LS Kontraktual,SAT0044,Kemensos,500000,68.3,30,19,0,Diterima,Tidak ditolak
+SPM00395,2024-03-10,SPM-TUP,SAT0146,Kemendikbud,500000,67.2,25,5,1,Ditolak,Melebihi pagu
+SPM00396,2024-03-10,SPM-LS Non Kontraktual,SAT0264,Kemenhan,500000,80.9,84,17,0,Diterima,Tidak ditolak
+SPM00397,2024-03-11,SPM-LS Non Kontraktual,SAT0172,Kemenag,500000,72.1,5,5,0,Diterima,Tidak ditolak
+SPM00398,2024-03-11,SPM-LS Belanja Pegawai,SAT0048,Kemen PUPR,500000,91.6,65,18,0,Diterima,Tidak ditolak
+SPM00399,2024-03-11,SPM-GUP,SAT0121,Kemensos,500000,83.5,49,11,0,Diterima,Tidak ditolak
+SPM00400,2024-03-11,SPM-LS Non Kontraktual,SAT0159,Kemendikbud,500000,53.5,3,10,0,Diterima,Tidak ditolak
+SPM00401,2024-03-11,SPM-LS Belanja Pegawai,SAT0116,Kemenhan,500000,82.0,45,1,0,Diterima,Tidak ditolak
+SPM00402,2024-03-11,SPM-LS Belanja Pegawai,SAT0102,Kemendagri,500000,63.6,14,14,0,Diterima,Tidak ditolak
+SPM00403,2024-03-12,SPM-LS Kontraktual,SAT0076,Kementan,500000,79.6,30,11,0,Ditolak,TTD tidak sesuai
+SPM00404,2024-03-12,SPM-LS Non Kontraktual,SAT0013,Kementan,500000,84.0,68,11,1,Diterima,Tidak ditolak
+SPM00405,2024-03-12,SPM-LS Belanja Pegawai,SAT0024,Kemenkeu,500000,61.5,18,8,0,Diterima,Tidak ditolak
+SPM00406,2024-03-12,SPM-LS Kontraktual,SAT0126,Kemendikbud,500000,72.8,62,1,0,Diterima,Tidak ditolak
+SPM00407,2024-03-12,SPM-UP,SAT0244,Kemen PUPR,500000,59.5,37,2,0,Ditolak,Kuitansi tidak valid
+SPM00408,2024-03-12,SPM-LS Kontraktual,SAT0038,Kemen PUPR,500000,52.6,25,11,0,Ditolak,Melebihi pagu
+SPM00409,2024-03-13,SPM-LS Kontraktual,SAT0234,Kemenkes,500000,68.9,48,15,0,Diterima,Tidak ditolak
+SPM00410,2024-03-13,SPM-LS Belanja Pegawai,SAT0213,Kementan,500000,68.1,65,0,0,Diterima,Tidak ditolak
+SPM00411,2024-03-13,SPM-TUP,SAT0295,Kemensos,500000,99.8,53,2,1,Diterima,Tidak ditolak
+SPM00412,2024-03-13,SPM-TUP,SAT0100,Kemendikbud,500000,72.3,79,19,0,Ditolak,Kode akun salah
+SPM00413,2024-03-13,SPM-GUP,SAT0197,Kemen PUPR,500000,66.7,73,1,0,Ditolak,Melebihi pagu
+SPM00414,2024-03-13,SPM-TUP,SAT0254,Kemenkes,500000,79.0,15,8,1,Ditolak,Melebihi pagu
+SPM00415,2024-03-14,SPM-LS Kontraktual,SAT0205,Kemendikbud,500000,54.4,49,18,0,Diterima,Tidak ditolak
+SPM00416,2024-03-14,SPM-GUP,SAT0125,Kemenhub,500000,98.1,88,14,0,Ditolak,Kode akun salah
+SPM00417,2024-03-14,SPM-LS Belanja Pegawai,SAT0076,Kemen PUPR,500000,81.7,68,17,0,Diterima,Tidak ditolak
+SPM00418,2024-03-14,SPM-LS Non Kontraktual,SAT0003,Kemenhub,500000,87.7,12,10,0,Diterima,Tidak ditolak
+SPM00419,2024-03-14,SPM-LS Kontraktual,SAT0055,Kemendikbud,500000,58.5,59,15,1,Diterima,Tidak ditolak
+SPM00420,2024-03-14,SPM-LS Kontraktual,SAT0218,Kemen PUPR,500000,70.5,37,16,1,Diterima,Tidak ditolak
+SPM00421,2024-03-15,SPM-GUP,SAT0113,Kemenhub,500000,71.1,61,4,1,Diterima,Tidak ditolak
+SPM00422,2024-03-15,SPM-LS Belanja Pegawai,SAT0091,Kemenag,500000,91.1,43,11,0,Diterima,Tidak ditolak
+SPM00423,2024-03-15,SPM-UP,SAT0266,Kemenkes,500000,50.1,70,10,0,Diterima,Tidak ditolak
+SPM00424,2024-03-15,SPM-LS Kontraktual,SAT0238,Kemensos,500000,65.0,39,14,0,Ditolak,Kuitansi tidak valid
+SPM00425,2024-03-15,SPM-UP,SAT0026,Kementan,500000,99.1,56,2,0,Diterima,Tidak ditolak
+SPM00426,2024-03-15,SPM-UP,SAT0286,Kemenkes,500000,73.7,63,0,0,Diterima,Tidak ditolak
+SPM00427,2024-03-16,SPM-TUP,SAT0128,Kemenhub,500000,69.1,46,19,1,Ditolak,Melebihi pagu
+SPM00428,2024-03-16,SPM-LS Belanja Pegawai,SAT0063,Kemen PUPR,500000,56.0,88,15,0,Diterima,Tidak ditolak
+SPM00429,2024-03-16,SPM-UP,SAT0234,Kemenag,500000,98.7,11,1,0,Diterima,Tidak ditolak
+SPM00430,2024-03-16,SPM-LS Belanja Pegawai,SAT0069,Kemenag,500000,51.0,62,1,0,Diterima,Tidak ditolak
+SPM00431,2024-03-16,SPM-TUP,SAT0238,Kementan,500000,86.9,77,2,0,Diterima,Tidak ditolak
+SPM00432,2024-03-16,SPM-LS Belanja Pegawai,SAT0272,Kemenag,500000,88.4,25,7,0,Diterima,Tidak ditolak
+SPM00433,2024-03-17,SPM-LS Kontraktual,SAT0287,Kemenkes,500000,62.2,71,14,1,Ditolak,Kuitansi tidak valid
+SPM00434,2024-03-17,SPM-UP,SAT0163,Kemenhan,500000,83.6,52,6,0,Diterima,Tidak ditolak
+SPM00435,2024-03-17,SPM-LS Belanja Pegawai,SAT0227,Kemenag,500000,54.6,4,5,1,Diterima,Tidak ditolak
+SPM00436,2024-03-17,SPM-LS Non Kontraktual,SAT0259,Kementan,500000,62.9,59,8,0,Diterima,Tidak ditolak
+SPM00437,2024-03-17,SPM-LS Belanja Pegawai,SAT0219,Kemenag,500000,89.4,72,19,1,Diterima,Tidak ditolak
+SPM00438,2024-03-17,SPM-UP,SAT0281,Kemenag,500000,93.2,20,0,1,Diterima,Tidak ditolak
+SPM00439,2024-03-18,SPM-TUP,SAT0229,Kemendagri,500000,80.4,63,7,0,Diterima,Tidak ditolak
+SPM00440,2024-03-18,SPM-TUP,SAT0082,Kemenkes,500000,75.3,54,2,0,Diterima,Tidak ditolak
+SPM00441,2024-03-18,SPM-UP,SAT0244,Kemenhub,500000,58.0,74,3,1,Diterima,Tidak ditolak
+SPM00442,2024-03-18,SPM-LS Kontraktual,SAT0231,Kemenkeu,500000,53.2,57,14,0,Diterima,Tidak ditolak
+SPM00443,2024-03-18,SPM-LS Kontraktual,SAT0133,Kemenhan,500000,55.9,41,5,1,Diterima,Tidak ditolak
+SPM00444,2024-03-18,SPM-TUP,SAT0127,Kemenag,500000,61.4,3,14,0,Diterima,Tidak ditolak
+SPM00445,2024-03-19,SPM-TUP,SAT0142,Kemensos,500000,67.1,6,2,0,Diterima,Tidak ditolak
+SPM00446,2024-03-19,SPM-UP,SAT0267,Kemenag,500000,69.0,5,13,1,Diterima,Tidak ditolak
+SPM00447,2024-03-19,SPM-LS Kontraktual,SAT0249,Kemendagri,500000,67.3,5,19,1,Ditolak,Kuitansi tidak valid
+SPM00448,2024-03-19,SPM-TUP,SAT0123,Kemenhub,500000,62.0,54,13,0,Ditolak,Kuitansi tidak valid
+SPM00449,2024-03-19,SPM-LS Kontraktual,SAT0141,Kemensos,500000,75.5,47,3,1,Diterima,Tidak ditolak
+SPM00450,2024-03-19,SPM-TUP,SAT0226,Kemenhan,500000,91.3,87,11,0,Diterima,Tidak ditolak
+SPM00451,2024-03-20,SPM-LS Belanja Pegawai,SAT0040,Kemensos,500000,64.0,49,16,0,Diterima,Tidak ditolak
+SPM00452,2024-03-20,SPM-LS Non Kontraktual,SAT0147,Kemenkes,500000,97.1,9,6,0,Ditolak,Dokumen tidak lengkap
+SPM00453,2024-03-20,SPM-GUP,SAT0121,Kementan,500000,93.7,20,8,0,Diterima,Tidak ditolak
+SPM00454,2024-03-20,SPM-LS Belanja Pegawai,SAT0140,Kementan,500000,58.1,61,2,1,Diterima,Tidak ditolak
+SPM00455,2024-03-20,SPM-GUP,SAT0172,Kemenhan,500000,89.3,35,12,0,Diterima,Tidak ditolak
+SPM00456,2024-03-20,SPM-TUP,SAT0164,Kemenhub,500000,78.7,50,14,0,Diterima,Tidak ditolak
+SPM00457,2024-03-21,SPM-LS Non Kontraktual,SAT0277,Kementan,500000,78.3,82,17,0,Diterima,Tidak ditolak
+SPM00458,2024-03-21,SPM-LS Non Kontraktual,SAT0042,Kemendikbud,500000,69.6,62,18,0,Diterima,Tidak ditolak
+SPM00459,2024-03-21,SPM-TUP,SAT0071,Kemendagri,500000,75.1,17,0,0,Diterima,Tidak ditolak
+SPM00460,2024-03-21,SPM-TUP,SAT0078,Kemenhan,500000,69.9,88,5,1,Diterima,Tidak ditolak
+SPM00461,2024-03-21,SPM-LS Kontraktual,SAT0119,Kemenhan,500000,77.0,3,1,0,Diterima,Tidak ditolak
+SPM00462,2024-03-21,SPM-TUP,SAT0197,Kemenkeu,500000,81.4,32,13,1,Diterima,Tidak ditolak
+SPM00463,2024-03-22,SPM-UP,SAT0079,Kemenkeu,500000,83.7,13,5,1,Diterima,Tidak ditolak
+SPM00464,2024-03-22,SPM-TUP,SAT0110,Kemenkes,500000,76.6,89,13,0,Diterima,Tidak ditolak
+SPM00465,2024-03-22,SPM-UP,SAT0033,Kemenkes,500000,86.1,73,3,1,Diterima,Tidak ditolak
+SPM00466,2024-03-22,SPM-TUP,SAT0213,Kemenkeu,500000,57.1,68,7,1,Ditolak,SPTJM tidak ada
+SPM00467,2024-03-22,SPM-LS Kontraktual,SAT0209,Kementan,500000,60.6,14,2,0,Diterima,Tidak ditolak
+SPM00468,2024-03-22,SPM-UP,SAT0170,Kemen PUPR,500000,90.9,11,18,0,Diterima,Tidak ditolak
+SPM00469,2024-03-23,SPM-LS Belanja Pegawai,SAT0278,Kemenhan,500000,66.1,56,13,0,Diterima,Tidak ditolak
+SPM00470,2024-03-23,SPM-UP,SAT0239,Kemendikbud,500000,51.1,67,19,0,Diterima,Tidak ditolak
+SPM00471,2024-03-23,SPM-LS Kontraktual,SAT0213,Kemenhan,500000,57.7,29,16,1,Ditolak,Kuitansi tidak valid
+SPM00472,2024-03-23,SPM-GUP,SAT0032,Kemenag,500000,61.2,9,7,0,Diterima,Tidak ditolak
+SPM00473,2024-03-23,SPM-UP,SAT0106,Kemenhub,500000,97.9,67,13,1,Ditolak,Kode akun salah
+SPM00474,2024-03-23,SPM-TUP,SAT0216,Kemendagri,500000,78.7,25,5,0,Diterima,Tidak ditolak
+SPM00475,2024-03-24,SPM-TUP,SAT0200,Kemen PUPR,500000,96.6,76,15,0,Diterima,Tidak ditolak
+SPM00476,2024-03-24,SPM-GUP,SAT0300,Kemendikbud,500000,78.8,42,18,1,Diterima,Tidak ditolak
+SPM00477,2024-03-24,SPM-LS Kontraktual,SAT0011,Kemenag,500000,74.0,9,13,0,Ditolak,SPTJM tidak ada
+SPM00478,2024-03-24,SPM-LS Non Kontraktual,SAT0295,Kemenkes,500000,65.7,79,18,0,Ditolak,Kuitansi tidak valid
+SPM00479,2024-03-24,SPM-TUP,SAT0195,Kemendikbud,500000,80.3,40,2,0,Diterima,Tidak ditolak
+SPM00480,2024-03-24,SPM-LS Belanja Pegawai,SAT0245,Kemenkeu,500000,57.0,25,9,0,Diterima,Tidak ditolak
+SPM00481,2024-03-25,SPM-LS Kontraktual,SAT0004,Kemenhan,500000,94.9,5,18,0,Diterima,Tidak ditolak
+SPM00482,2024-03-25,SPM-UP,SAT0181,Kemendikbud,500000,91.5,11,8,0,Diterima,Tidak ditolak
+SPM00483,2024-03-25,SPM-UP,SAT0153,Kemenhub,500000,65.9,59,19,0,Diterima,Tidak ditolak
+SPM00484,2024-03-25,SPM-LS Belanja Pegawai,SAT0200,Kemensos,500000,97.6,88,12,1,Diterima,Tidak ditolak
+SPM00485,2024-03-25,SPM-TUP,SAT0215,Kemenkes,500000,91.3,79,6,0,Diterima,Tidak ditolak
+SPM00486,2024-03-25,SPM-LS Kontraktual,SAT0276,Kemendagri,500000,83.3,38,13,0,Diterima,Tidak ditolak
+SPM00487,2024-03-26,SPM-LS Belanja Pegawai,SAT0280,Kemendagri,500000,56.1,72,8,0,Diterima,Tidak ditolak
+SPM00488,2024-03-26,SPM-TUP,SAT0113,Kemendikbud,500000,73.9,5,18,1,Diterima,Tidak ditolak
+SPM00489,2024-03-26,SPM-LS Kontraktual,SAT0250,Kemensos,500000,75.3,48,14,0,Ditolak,Kode akun salah
+SPM00490,2024-03-26,SPM-UP,SAT0113,Kemenhan,500000,61.6,18,19,0,Diterima,Tidak ditolak
+SPM00491,2024-03-26,SPM-LS Kontraktual,SAT0140,Kemenag,500000,54.0,70,13,0,Diterima,Tidak ditolak
+SPM00492,2024-03-26,SPM-GUP,SAT0224,Kemen PUPR,500000,88.8,37,5,0,Diterima,Tidak ditolak
+SPM00493,2024-03-27,SPM-LS Non Kontraktual,SAT0249,Kemenhan,500000,56.1,60,3,1,Ditolak,Kode akun salah
+SPM00494,2024-03-27,SPM-LS Kontraktual,SAT0015,Kemenag,500000,79.7,48,7,1,Diterima,Tidak ditolak
+SPM00495,2024-03-27,SPM-LS Non Kontraktual,SAT0200,Kemen PUPR,500000,96.8,77,16,0,Diterima,Tidak ditolak
+SPM00496,2024-03-27,SPM-LS Kontraktual,SAT0173,Kemensos,500000,93.8,28,8,0,Diterima,Tidak ditolak
+SPM00497,2024-03-27,SPM-LS Non Kontraktual,SAT0208,Kemen PUPR,500000,63.9,69,0,0,Diterima,Tidak ditolak
+SPM00498,2024-03-27,SPM-GUP,SAT0085,Kemenhan,500000,92.6,77,19,1,Diterima,Tidak ditolak
+SPM00499,2024-03-28,SPM-UP,SAT0240,Kemenhub,500000,50.0,81,13,1,Diterima,Tidak ditolak
+SPM00500,2024-03-28,SPM-TUP,SAT0066,Kemendikbud,500000,50.9,40,10,0,Diterima,Tidak ditolak
+SPM00501,2024-03-28,SPM-LS Non Kontraktual,SAT0274,Kemenag,500000,80.1,45,2,1,Diterima,Tidak ditolak
+SPM00502,2024-03-28,SPM-GUP,SAT0014,Kemenhub,500000,68.2,62,8,1,Diterima,Tidak ditolak
+SPM00503,2024-03-28,SPM-LS Non Kontraktual,SAT0202,Kemenag,500000,69.3,58,13,0,Diterima,Tidak ditolak
+SPM00504,2024-03-28,SPM-UP,SAT0289,Kemendikbud,500000,78.2,67,8,0,Diterima,Tidak ditolak
+SPM00505,2024-03-29,SPM-LS Non Kontraktual,SAT0014,Kementan,500000,59.6,56,3,0,Diterima,Tidak ditolak
+SPM00506,2024-03-29,SPM-GUP,SAT0043,Kemen PUPR,500000,60.6,40,3,1,Ditolak,TTD tidak sesuai
+SPM00507,2024-03-29,SPM-GUP,SAT0220,Kemensos,500000,74.2,40,7,1,Ditolak,TTD tidak sesuai
+SPM00508,2024-03-29,SPM-LS Belanja Pegawai,SAT0070,Kementan,500000,87.7,77,1,1,Diterima,Tidak ditolak
+SPM00509,2024-03-29,SPM-UP,SAT0237,Kementan,500000,81.0,33,8,1,Diterima,Tidak ditolak
+SPM00510,2024-03-29,SPM-LS Belanja Pegawai,SAT0094,Kemendagri,500000,64.9,6,13,0,Diterima,Tidak ditolak
+SPM00511,2024-03-30,SPM-UP,SAT0026,Kemenkeu,500000,71.5,88,8,1,Diterima,Tidak ditolak
+SPM00512,2024-03-30,SPM-LS Non Kontraktual,SAT0134,Kemenhan,500000,58.5,19,15,1,Ditolak,Melebihi pagu
+SPM00513,2024-03-30,SPM-GUP,SAT0195,Kemenhub,500000,53.7,80,16,0,Diterima,Tidak ditolak
+SPM00514,2024-03-30,SPM-LS Belanja Pegawai,SAT0168,Kemenhub,500000,89.1,40,15,0,Diterima,Tidak ditolak
+SPM00515,2024-03-30,SPM-LS Non Kontraktual,SAT0109,Kemenhub,500000,63.3,59,11,1,Diterima,Tidak ditolak
+SPM00516,2024-03-30,SPM-GUP,SAT0233,Kemenhub,500000,58.9,59,2,0,Diterima,Tidak ditolak
+SPM00517,2024-03-31,SPM-UP,SAT0168,Kemenhan,500000,84.6,48,10,1,Diterima,Tidak ditolak
+SPM00518,2024-03-31,SPM-GUP,SAT0173,Kementan,500000,80.9,41,13,0,Diterima,Tidak ditolak
+SPM00519,2024-03-31,SPM-LS Non Kontraktual,SAT0195,Kemenhan,500000,81.7,13,17,0,Diterima,Tidak ditolak
+SPM00520,2024-03-31,SPM-LS Belanja Pegawai,SAT0143,Kemenhub,500000,61.4,45,4,1,Diterima,Tidak ditolak
+SPM00521,2024-03-31,SPM-LS Belanja Pegawai,SAT0216,Kemenkeu,500000,61.6,89,15,0,Diterima,Tidak ditolak
+SPM00522,2024-03-31,SPM-GUP,SAT0130,Kemenkes,500000,61.0,53,19,0,Diterima,Tidak ditolak
+SPM00523,2024-04-01,SPM-LS Non Kontraktual,SAT0042,Kemendikbud,500000,58.7,42,4,0,Diterima,Tidak ditolak
+SPM00524,2024-04-01,SPM-LS Kontraktual,SAT0241,Kemenhub,500000,82.8,63,2,1,Diterima,Tidak ditolak
+SPM00525,2024-04-01,SPM-UP,SAT0010,Kemensos,500000,92.4,27,11,0,Diterima,Tidak ditolak
+SPM00526,2024-04-01,SPM-UP,SAT0277,Kemenkes,500000,86.2,38,0,1,Diterima,Tidak ditolak
+SPM00527,2024-04-01,SPM-LS Non Kontraktual,SAT0027,Kemenhan,500000,89.6,60,8,0,Diterima,Tidak ditolak
+SPM00528,2024-04-01,SPM-LS Kontraktual,SAT0180,Kemensos,500000,70.2,7,8,1,Diterima,Tidak ditolak
+SPM00529,2024-04-02,SPM-LS Belanja Pegawai,SAT0115,Kemensos,500000,82.7,5,3,1,Ditolak,Kuitansi tidak valid
+SPM00530,2024-04-02,SPM-TUP,SAT0036,Kemenag,500000,67.7,45,2,0,Diterima,Tidak ditolak
+SPM00531,2024-04-02,SPM-TUP,SAT0021,Kemensos,500000,76.3,58,16,0,Diterima,Tidak ditolak
+SPM00532,2024-04-02,SPM-LS Non Kontraktual,SAT0016,Kemenhub,500000,74.1,31,1,0,Diterima,Tidak ditolak
+SPM00533,2024-04-02,SPM-LS Kontraktual,SAT0127,Kemenag,500000,58.8,23,0,0,Diterima,Tidak ditolak
+SPM00534,2024-04-02,SPM-LS Kontraktual,SAT0103,Kemendagri,500000,69.4,42,7,0,Diterima,Tidak ditolak
+SPM00535,2024-04-03,SPM-UP,SAT0011,Kementan,500000,98.2,10,12,0,Diterima,Tidak ditolak
+SPM00536,2024-04-03,SPM-LS Belanja Pegawai,SAT0079,Kemensos,500000,62.4,32,14,0,Diterima,Tidak ditolak
+SPM00537,2024-04-03,SPM-GUP,SAT0123,Kemenkeu,500000,56.7,53,7,0,Diterima,Tidak ditolak
+SPM00538,2024-04-03,SPM-LS Kontraktual,SAT0065,Kemendikbud,500000,70.9,30,11,0,Diterima,Tidak ditolak
+SPM00539,2024-04-03,SPM-GUP,SAT0243,Kemensos,500000,89.5,39,11,0,Diterima,Tidak ditolak
+SPM00540,2024-04-03,SPM-TUP,SAT0059,Kemendagri,500000,79.1,31,13,1,Diterima,Tidak ditolak
+SPM00541,2024-04-04,SPM-GUP,SAT0289,Kemen PUPR,500000,84.0,82,14,0,Diterima,Tidak ditolak
+SPM00542,2024-04-04,SPM-LS Belanja Pegawai,SAT0112,Kemenhan,500000,59.5,2,14,0,Diterima,Tidak ditolak
+SPM00543,2024-04-04,SPM-LS Belanja Pegawai,SAT0239,Kemenhan,500000,80.9,78,8,0,Diterima,Tidak ditolak
+SPM00544,2024-04-04,SPM-GUP,SAT0132,Kemendagri,500000,66.2,77,18,1,Diterima,Tidak ditolak
+SPM00545,2024-04-04,SPM-LS Non Kontraktual,SAT0189,Kemen PUPR,500000,91.7,12,19,1,Diterima,Tidak ditolak
+SPM00546,2024-04-04,SPM-LS Kontraktual,SAT0086,Kemenhan,500000,81.5,39,7,1,Diterima,Tidak ditolak
+SPM00547,2024-04-05,SPM-LS Non Kontraktual,SAT0059,Kemenhan,500000,59.9,66,18,1,Diterima,Tidak ditolak
+SPM00548,2024-04-05,SPM-GUP,SAT0084,Kemenhan,500000,53.2,13,5,0,Diterima,Tidak ditolak
+SPM00549,2024-04-05,SPM-LS Kontraktual,SAT0160,Kemendagri,500000,52.1,46,19,1,Diterima,Tidak ditolak
+SPM00550,2024-04-05,SPM-UP,SAT0056,Kementan,500000,68.6,27,18,1,Ditolak,Kuitansi tidak valid
+SPM00551,2024-04-05,SPM-LS Non Kontraktual,SAT0297,Kemendikbud,500000,63.3,17,3,0,Ditolak,SPTJM tidak ada
+SPM00552,2024-04-05,SPM-LS Non Kontraktual,SAT0014,Kemendagri,500000,82.3,60,6,1,Ditolak,Kode akun salah
+SPM00553,2024-04-06,SPM-GUP,SAT0160,Kemen PUPR,500000,75.0,64,3,0,Diterima,Tidak ditolak
+SPM00554,2024-04-06,SPM-TUP,SAT0295,Kemensos,500000,63.3,88,11,0,Diterima,Tidak ditolak
+SPM00555,2024-04-06,SPM-GUP,SAT0193,Kementan,500000,57.5,35,12,0,Ditolak,Kuitansi tidak valid
+SPM00556,2024-04-06,SPM-LS Non Kontraktual,SAT0204,Kementan,500000,56.4,70,2,0,Diterima,Tidak ditolak
+SPM00557,2024-04-06,SPM-LS Kontraktual,SAT0102,Kemensos,500000,93.2,83,11,1,Diterima,Tidak ditolak
+SPM00558,2024-04-06,SPM-TUP,SAT0039,Kemenkeu,500000,62.2,30,1,0,Diterima,Tidak ditolak
+SPM00559,2024-04-07,SPM-GUP,SAT0125,Kemenag,500000,82.6,71,1,0,Diterima,Tidak ditolak
+SPM00560,2024-04-07,SPM-GUP,SAT0053,Kemendikbud,500000,90.5,74,8,0,Diterima,Tidak ditolak
+SPM00561,2024-04-07,SPM-LS Non Kontraktual,SAT0155,Kemendikbud,500000,80.7,63,0,1,Diterima,Tidak ditolak
+SPM00562,2024-04-07,SPM-LS Non Kontraktual,SAT0062,Kemenkeu,500000,93.0,28,7,0,Diterima,Tidak ditolak
+SPM00563,2024-04-07,SPM-UP,SAT0290,Kemenag,500000,69.6,60,5,0,Diterima,Tidak ditolak
+SPM00564,2024-04-07,SPM-GUP,SAT0022,Kemendikbud,500000,97.8,79,5,1,Ditolak,Melebihi pagu
+SPM00565,2024-04-08,SPM-LS Non Kontraktual,SAT0178,Kemen PUPR,500000,56.7,37,17,1,Diterima,Tidak ditolak
+SPM00566,2024-04-08,SPM-LS Belanja Pegawai,SAT0273,Kemenkes,500000,55.1,22,16,0,Diterima,Tidak ditolak
+SPM00567,2024-04-08,SPM-TUP,SAT0220,Kemenkes,500000,82.9,68,11,1,Diterima,Tidak ditolak
+SPM00568,2024-04-08,SPM-LS Belanja Pegawai,SAT0190,Kemendikbud,500000,97.1,20,5,1,Diterima,Tidak ditolak
+SPM00569,2024-04-08,SPM-TUP,SAT0036,Kemenhub,500000,90.4,68,7,1,Diterima,Tidak ditolak
+SPM00570,2024-04-08,SPM-GUP,SAT0260,Kemendikbud,500000,53.8,64,18,0,Diterima,Tidak ditolak
+SPM00571,2024-04-09,SPM-UP,SAT0175,Kemensos,500000,64.0,17,9,0,Diterima,Tidak ditolak
+SPM00572,2024-04-09,SPM-LS Non Kontraktual,SAT0007,Kemensos,500000,96.5,12,0,0,Diterima,Tidak ditolak
+SPM00573,2024-04-09,SPM-LS Non Kontraktual,SAT0216,Kemenag,500000,62.7,22,12,0,Diterima,Tidak ditolak
+SPM00574,2024-04-09,SPM-LS Non Kontraktual,SAT0251,Kemenhan,500000,89.1,17,16,0,Diterima,Tidak ditolak
+SPM00575,2024-04-09,SPM-GUP,SAT0055,Kementan,500000,91.3,10,2,0,Diterima,Tidak ditolak
+SPM00576,2024-04-09,SPM-TUP,SAT0222,Kemen PUPR,500000,74.8,65,7,0,Diterima,Tidak ditolak
+SPM00577,2024-04-10,SPM-LS Non Kontraktual,SAT0186,Kemenkeu,500000,69.3,22,13,0,Diterima,Tidak ditolak
+SPM00578,2024-04-10,SPM-LS Belanja Pegawai,SAT0236,Kemendikbud,500000,72.5,82,2,0,Diterima,Tidak ditolak
+SPM00579,2024-04-10,SPM-LS Non Kontraktual,SAT0079,Kemenhan,500000,61.3,50,15,1,Diterima,Tidak ditolak
+SPM00580,2024-04-10,SPM-GUP,SAT0223,Kemenhan,500000,94.5,14,12,0,Diterima,Tidak ditolak
+SPM00581,2024-04-10,SPM-UP,SAT0091,Kemen PUPR,500000,72.5,64,19,0,Diterima,Tidak ditolak
+SPM00582,2024-04-10,SPM-LS Belanja Pegawai,SAT0268,Kemenkeu,500000,94.1,47,16,1,Diterima,Tidak ditolak
+SPM00583,2024-04-11,SPM-LS Non Kontraktual,SAT0139,Kemensos,500000,55.3,29,12,0,Diterima,Tidak ditolak
+SPM00584,2024-04-11,SPM-LS Non Kontraktual,SAT0276,Kemendagri,500000,99.4,76,5,1,Diterima,Tidak ditolak
+SPM00585,2024-04-11,SPM-LS Kontraktual,SAT0248,Kemen PUPR,500000,72.2,36,16,1,Ditolak,Dokumen tidak lengkap
+SPM00586,2024-04-11,SPM-TUP,SAT0239,Kemenhan,500000,52.4,52,13,0,Diterima,Tidak ditolak
+SPM00587,2024-04-11,SPM-LS Belanja Pegawai,SAT0224,Kemenkes,500000,51.9,76,16,1,Diterima,Tidak ditolak
+SPM00588,2024-04-11,SPM-LS Kontraktual,SAT0138,Kemendikbud,500000,87.3,7,7,0,Diterima,Tidak ditolak
+SPM00589,2024-04-12,SPM-UP,SAT0166,Kemenag,500000,83.0,29,10,0,Diterima,Tidak ditolak
+SPM00590,2024-04-12,SPM-TUP,SAT0126,Kemenkes,500000,90.1,11,19,0,Ditolak,Kode akun salah
+SPM00591,2024-04-12,SPM-LS Belanja Pegawai,SAT0045,Kemenhan,500000,55.3,33,0,0,Ditolak,Dokumen tidak lengkap
+SPM00592,2024-04-12,SPM-LS Non Kontraktual,SAT0143,Kementan,500000,51.8,6,6,1,Ditolak,Melebihi pagu
+SPM00593,2024-04-12,SPM-LS Belanja Pegawai,SAT0231,Kemenhub,500000,75.4,79,16,0,Diterima,Tidak ditolak
+SPM00594,2024-04-12,SPM-LS Non Kontraktual,SAT0125,Kemenkeu,500000,69.4,32,9,0,Diterima,Tidak ditolak
+SPM00595,2024-04-13,SPM-TUP,SAT0238,Kemensos,500000,73.1,51,10,0,Ditolak,TTD tidak sesuai
+SPM00596,2024-04-13,SPM-LS Non Kontraktual,SAT0292,Kemendikbud,500000,99.6,75,8,0,Diterima,Tidak ditolak
+SPM00597,2024-04-13,SPM-UP,SAT0195,Kemenag,500000,98.5,58,8,0,Diterima,Tidak ditolak
+SPM00598,2024-04-13,SPM-GUP,SAT0173,Kemendagri,500000,97.1,87,4,0,Diterima,Tidak ditolak
+SPM00599,2024-04-13,SPM-LS Non Kontraktual,SAT0015,Kemensos,500000,89.2,26,16,1,Diterima,Tidak ditolak
+SPM00600,2024-04-13,SPM-UP,SAT0254,Kemendikbud,500000,67.7,46,8,0,Ditolak,Melebihi pagu
